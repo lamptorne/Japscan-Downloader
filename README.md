@@ -9,7 +9,7 @@ For ubuntu :
 
 sudo apt install python3 python3-pip 
 
-sudo pip install cfscrape
+sudo pip3 install cfscrape
 
 
 How to use :
