@@ -6,6 +6,7 @@ What do you need :
 Just python 3 and cfscrape 
 
 For ubuntu :
+
 sudo apt install python3 python3-pip 
 sudo pip install cfscrape
 
